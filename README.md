@@ -39,6 +39,14 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ### 2️⃣ Set Up Network Security Groups (NSGs)
 - Configure **NSGs** to control inbound and outbound traffic.
 - Allow and block traffic for specific ports (e.g., **SSH, RDP, HTTP/S**).
+  
+<img width="851" alt="Screenshot 2025-03-12 at 1 11 16 PM" src="https://github.com/user-attachments/assets/1f569b18-97eb-454a-b7a6-5afd2ce1a74a" />
+
+<img width="521" alt="Screenshot 2025-03-12 at 1 12 46 PM" src="https://github.com/user-attachments/assets/99735303-84e7-41f4-ba6a-da0d17fd08bb" />
+
+<img width="865" alt="Screenshot 2025-03-12 at 1 14 20 PM" src="https://github.com/user-attachments/assets/44771031-c8ac-4260-91df-f1b7ed020c07" />
+
+<img width="98" alt="Screenshot 2025-03-12 at 1 15 50 PM" src="https://github.com/user-attachments/assets/09db141b-8c4a-4d33-96e5-309788fa3217" />
 
 ### 3️⃣ Inspect Network Traffic with Wireshark
 - Install **Wireshark** on the Windows VM.
@@ -54,18 +62,5 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="837" alt="Screenshot 2025-03-12 at 1 08 32 PM" src="https://github.com/user-attachments/assets/51b33487-5f02-44a6-862c-57bbc77bc814" />
 
 
-### 4️⃣ Analyze and Adjust Firewall Rules
-
-- Modify **NSG rules** to observe changes in network behavior.
-- Block/allow specific traffic and analyze its impact in **Wireshark**.
-- Ensure security policies align with organizational requirements.
   
-<img width="851" alt="Screenshot 2025-03-12 at 1 11 16 PM" src="https://github.com/user-attachments/assets/1f569b18-97eb-454a-b7a6-5afd2ce1a74a" />
-
-<img width="521" alt="Screenshot 2025-03-12 at 1 12 46 PM" src="https://github.com/user-attachments/assets/99735303-84e7-41f4-ba6a-da0d17fd08bb" />
-
-<img width="865" alt="Screenshot 2025-03-12 at 1 14 20 PM" src="https://github.com/user-attachments/assets/44771031-c8ac-4260-91df-f1b7ed020c07" />
-
-<img width="98" alt="Screenshot 2025-03-12 at 1 15 50 PM" src="https://github.com/user-attachments/assets/09db141b-8c4a-4d33-96e5-309788fa3217" />
-
 
